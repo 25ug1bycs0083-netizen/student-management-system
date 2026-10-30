@@ -1,0 +1,3 @@
+export default function Students() {
+  return <><div className="mb-8"><p className="mb-2 text-sm font-medium text-blue-600">Management</p><h1 className="text-3xl font-bold text-slate-900">Students</h1><p className="mt-2 text-slate-500">Manage student profiles, admissions, and class assignments.</p></div><div className="rounded-2xl border border-dashed border-slate-300 bg-white p-10 text-center"><h2 className="font-semibold text-slate-800">No students loaded yet</h2><p className="mt-2 text-sm text-slate-500">The student CRUD module will connect to MongoDB in the next build phase.</p></div></>;
+}
