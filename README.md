@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EduFlow Student Management System
 
 EduFlow is a full-stack student management system for schools, colleges, and educational institutions. The repository is organized as an independently deployable React/Vite frontend and Express/MongoDB backend.
@@ -58,3 +59,6 @@ npm run seed:admin --prefix backend
 ```
 
 The seed command refuses to overwrite an existing account. Remove the temporary password values from your environment after provisioning.
+=======
+# student-management-system
+>>>>>>> 779329a5ae110ff98a1d7921c2b945fcd4424b2b
